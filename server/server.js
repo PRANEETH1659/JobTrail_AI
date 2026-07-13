@@ -16,6 +16,7 @@ app.use(express.json()); // Allow backend to parse JSON data in the request body
 // API Routes
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/users', require('./routes/userRoutes'));
+app.use('/api/applications', require('./routes/applicationRoutes'));
 
 // Basic Health Check Route
 app.get('/', (req, res) => {

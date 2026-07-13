@@ -200,7 +200,7 @@ Stack: React (hooks + Context), Node/Express, MongoDB/Mongoose, JWT auth,
 Claude/Gemini API for a 3-agent pipeline (JD Parser -> Match Scorer -> Content Generator).
 Full spec: [paste relevant section of this doc, or summarize below]
 
-Current status: Phase 1 Week 1 Foundation - Client (Vite+React) and Server (Express) scaffolding complete. Ready to proceed with MongoDB connection setup.
+Current status: Phase 1 Week 2 - Application CRUD backend (models, controllers, routes) is complete. Ready to proceed with the frontend Kanban board UI and application state management.
 What I need help with now: [your specific question/task]
 ```
 
